@@ -1,0 +1,33 @@
+body{
+	background-color: #ffe57d;
+	background-image: url('../imagens/fundo-header.png');
+	background-position: right top;
+	background-repeat: no-repeat;
+	font-family: 'Montserrat', sans-serif;
+	color: #0B615E;
+		}
+
+header{
+	height: 80px;
+}
+
+header nav{
+	float: right;
+}
+
+section h2{
+	font-size: 20px;
+}
+
+section img{
+	float: right;
+	width: 200px;
+	border-radius: 100%;
+}
+
+section table{
+    background-color: #ffe57d;
+    border: none;
+    width: 400px;
+    text-align: center;
+}
